@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://floridabakerytampa.com/sitemap.xml
+Sitemap: https://lmanzano86-ui.github.io/demo-florida-bakery/sitemap.xml
